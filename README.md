@@ -1,7 +1,7 @@
 # Cryptocurrency Clusters
 
 ## Objective
-To create a report that includes what cryptocurrencies (CCs) are on the trading market and determine whether they can be grouped to create a classification system for a new investment. Pre-process the raw data to fit the machine learning models, and exlore whether CCs can be grouped using several clustering algorithms, and share the findings by data visualization.
+To create a report that includes what cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system for a new investment. Pre-process the raw data to fit the machine learning models, and exlore whether those can be grouped using several clustering algorithms, and share the findings by data visualization.
 
 ## Instructions
 
